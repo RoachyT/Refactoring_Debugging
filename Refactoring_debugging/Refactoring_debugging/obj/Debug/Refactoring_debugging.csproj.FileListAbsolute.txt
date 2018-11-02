@@ -1,0 +1,7 @@
+C:\Users\rtoles\Desktop\Refactoring_Debugging\Refactoring_debugging\Refactoring_debugging\bin\Debug\Refactoring_debugging.exe.config
+C:\Users\rtoles\Desktop\Refactoring_Debugging\Refactoring_debugging\Refactoring_debugging\bin\Debug\Refactoring_debugging.exe
+C:\Users\rtoles\Desktop\Refactoring_Debugging\Refactoring_debugging\Refactoring_debugging\bin\Debug\Refactoring_debugging.pdb
+C:\Users\rtoles\Desktop\Refactoring_Debugging\Refactoring_debugging\Refactoring_debugging\obj\Debug\Refactoring_debugging.csprojAssemblyReference.cache
+C:\Users\rtoles\Desktop\Refactoring_Debugging\Refactoring_debugging\Refactoring_debugging\obj\Debug\Refactoring_debugging.csproj.CoreCompileInputs.cache
+C:\Users\rtoles\Desktop\Refactoring_Debugging\Refactoring_debugging\Refactoring_debugging\obj\Debug\Refactoring_debugging.exe
+C:\Users\rtoles\Desktop\Refactoring_Debugging\Refactoring_debugging\Refactoring_debugging\obj\Debug\Refactoring_debugging.pdb
